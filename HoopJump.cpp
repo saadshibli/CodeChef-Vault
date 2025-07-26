@@ -1,5 +1,5 @@
 // Problem: Hoop Jump
-// Source: https://www.codechef.com/problems/HOOPS
+// Source: https://www.codechef.com/practice/course/1to2stars/LP1TO201/problems/HOOPS
 //
 // There are N hoops in a row (N is odd). You and your friend take turns jumping into hoops:
 //   - You start at hoop 1, your friend at hoop N, then you at 2, your friend at N-1, and so on.
@@ -37,6 +37,7 @@ int main() {
         int x;
         cin>>x;
         int n = (x+1)/2;
-        cout<<n
+        cout<<n;
     }
+    return 0;
 }
